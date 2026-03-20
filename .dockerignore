@@ -14,3 +14,4 @@ Dockerfile
 *.spec.js
 coverage/
 .DS_Store
+dist/
